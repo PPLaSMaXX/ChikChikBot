@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{312C207F-B2A6-4D7A-826C-F7B33A01800A}|ChikChikBot.pyproj|C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\ChikChikBot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{312C207F-B2A6-4D7A-826C-F7B33A01800A}|ChikChikBot.pyproj|solutionrelative:ChikChikBot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChikChikBot||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312C207F-B2A6-4D7A-826C-F7B33A01800A}|ChikChikBot.pyproj|C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{312C207F-B2A6-4D7A-826C-F7B33A01800A}|ChikChikBot.pyproj|solutionrelative:run.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{312C207F-B2A6-4D7A-826C-F7B33A01800A}|ChikChikBot.pyproj|C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\ChikChikBot.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9a46bc86-34cb-4597-83e5-498e3bdba20a",
+      "RelativeMoniker": "D:0:0:{312C207F-B2A6-4D7A-826C-F7B33A01800A}|ChikChikBot.pyproj|solutionrelative:ChikChikBot.pyproj||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|9a46bc86-34cb-4597-83e5-498e3bdba20a"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "run.bat",
+              "DocumentMoniker": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\run.bat",
+              "RelativeDocumentMoniker": "run.bat",
+              "ToolTip": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\run.bat",
+              "RelativeToolTip": "run.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
+              "WhenOpened": "2023-11-28T07:23:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChikChikBot",
+              "DocumentMoniker": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\ChikChikBot.pyproj",
+              "RelativeDocumentMoniker": "ChikChikBot.pyproj",
+              "ToolTip": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\ChikChikBot.pyproj",
+              "RelativeToolTip": "ChikChikBot.pyproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-28T07:23:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChikChikBot.py",
+              "DocumentMoniker": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\ChikChikBot.py",
+              "RelativeDocumentMoniker": "ChikChikBot.py",
+              "ToolTip": "C:\\Home\\MeMo\\doc\\Python\\ChikChikBot\\ChikChikBot.py",
+              "RelativeToolTip": "ChikChikBot.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2023-11-23T03:37:10.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
